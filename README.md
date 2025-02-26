@@ -49,4 +49,4 @@ npm run dev
 yarn dev
 ```
 
-5.Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5.Open [http://localhost:5173/](http://localhost:5173/) in your browser to see the application. Check your terminal as port may be different.
